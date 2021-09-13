@@ -45,7 +45,7 @@ cukup seperti berikut.
 ````bash
 $ dis3 asm save.dis
 ````
-`save.dis` adalah nama file hasil unpack dari file `pyc`. yah lu ngerti lah maksud gw.
+`save.dis` adalah nama file hasil unpack dari file `file.pyc`. yah lu ngerti lah maksud gw.
 #
 dan jika berhasil maka akan terbuat file baru dengan nama `save.pyc`.
 #
