@@ -211,5 +211,4 @@ def menu(sys):
 def main():
     try:menu(sys.argv)
     except (KeyboardInterrupt, EOFError):exit()
-main()
 # Mau Nyari Apaan Sih Cuk?
